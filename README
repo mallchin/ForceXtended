@@ -1,3 +1,10 @@
+Creating an .rmskin:
+
+You'll need to overlay this repository on-top of the template rmskin:
+
+  * http://admin.rainmeter.net/AdminFiles/rmskin_template.zip
+
+  
 To-do:
 
   * Change Audio icon
