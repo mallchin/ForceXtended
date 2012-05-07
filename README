@@ -1,0 +1,12 @@
+To-do:
+
+  * Change Audio icon
+  - Test SSID status change
+  - Change bar colours based on thresholds
+  - Top Processes by Memory
+  x Hard disk drives utilization in percentage
+  - Motherboard temperature
+  - All cores temperature (the CPU temperature is actually only the last core)
+  - GPU utilization in percentage
+  - Clock Speed in real time (Turbo Boost)
+  - Fix showing -1 when volume muted
