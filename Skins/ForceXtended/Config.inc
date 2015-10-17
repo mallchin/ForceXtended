@@ -17,20 +17,20 @@ TCPVersion=TCPv4
 ; Set maximum upload / download speed in bytes
 ;------------------------------------------------------------------
 
-SpeedD=15000000
-SpeedU=2000000
+SpeedD=40000000
+SpeedU=10000000
 
 ;------------------------------------------------------------------
 ; SpeedFan sensors
 ;------------------------------------------------------------------
 
-SF_CPU_1=3
+SF_CPU_1=2
 SF_CPU_2=
 
-SF_GPU_1=2
+SF_GPU_1=0
 SF_GPU_2=
 
-SF_HDD_1=0
+SF_HDD_1=6
 SF_HDD_2=
 SF_HDD_3=
 SF_HDD_4=
@@ -67,6 +67,8 @@ font1_name=Tahoma
 font1_colour=255, 255, 255, 200
 
 ; Vertical Sidebar Text
+font2_name="hooge 05_53"
+font2_size=6
 font2_colour=255, 255, 255, 196
 
 ; Green
