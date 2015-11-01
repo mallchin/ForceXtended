@@ -16,6 +16,11 @@ To install the skin visit the [Deviant Art page](http://mallchin.deviantart.com/
 
 You'll also find help and assistance in the comments.
 
+## Dependencies
+
+  * [SpeedFan](http://www.almico.com/speedfan.php)
+  * [MSI Afterburn Plugin](http://forums.guru3d.com/showthread.php?t=319558)
+
 ## To-do
 
   * Test SSID status change
