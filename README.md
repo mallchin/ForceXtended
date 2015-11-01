@@ -1,6 +1,6 @@
 # ForceXtended Rainmeter Skin
 
-![ForceXtended Rainmeter Skin](http://pre15.deviantart.net/feba/th/pre/i/2012/128/8/6/forcextended_rainmeter_skin_by_mallchin-d4yytoj.jpg "ForceXtended Rainmeter Skin")
+![ForceXtended Rainmeter Skin](http://orig02.deviantart.net/8531/f/2015/305/0/5/forcextended_rainmeter_skin_by_mallchin-d4yytoj.png "ForceXtended Rainmeter Skin")
 
 ## About
 
