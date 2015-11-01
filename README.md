@@ -12,13 +12,14 @@ Thanks to famfamfam for the awesome icons.
 
 ## Install
 
-To install the skin visit the Deviant Art page and download the easy-to-install Rainmeter Skin Package.
+To install the skin visit the [Deviant Art page](http://mallchin.deviantart.com/art/ForceXtended-Rainmeter-Skin-300596419) and download the easy-to-install Rainmeter Skin Package.
 
 You'll also find help and assistance in the comments.
 
 ## To-do
 
   * Test SSID status change
-  * Top Processes by Memory
-  * Motherboard temperature
-  * All cores temperature (the CPU temperature is actually only the last core)
+  * Detailed Top Processes by CPU
+  * Detailed Top Processes by Memory
+  * SLI Support
+  * Fan monitoring
